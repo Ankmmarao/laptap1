@@ -4,8 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 import random
-import plotly.express as px
-import plotly.graph_objs as go
+
 from PIL import Image
 logo = Image.open('logo1.png')
 #pip install pandas numpy matplotlib seaborn streamlit
